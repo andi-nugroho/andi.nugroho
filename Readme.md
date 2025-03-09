@@ -1,6 +1,6 @@
 # Personal Website
 
-> https://andi-nugroho.github.io/andi.nugroho/
+> andi-nugroho.github.io
 <!-- :star: Star me on GitHub — it helps! -->
 
 <!--
